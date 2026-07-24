@@ -2,14 +2,14 @@
 
 BS Information Technology student building full-stack apps with AI at the core — voice, automation, and cloud-backed tools. I like taking a project from "what if" to a live deployed link.
 
-- 🎓 IT student focused on full-stack development, automation, and cloud infrastructure
-- 🤖 Currently building with LLM APIs (Groq, Anthropic) — voice interfaces, document processing, agentic tools
-- 🛠️ Comfortable across the stack: vanilla JS front-ends, serverless back-ends (Netlify/Vercel), API integration
-- 📌 Always shipping something — every project starts as a "let's see if this works" weekend build
+-  IT student focused on full-stack development, automation, and cloud infrastructure
+-  Currently building with LLM APIs (Groq, Anthropic) — voice interfaces, document processing, agentic tools
+-  Comfortable across the stack: vanilla JS front-ends, serverless back-ends (Netlify/Vercel), API integration
+-  Always shipping something — every project starts as a "let's see if this works" weekend build
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [MICHI — Real-Time AI Voice Translator](https://github.com/JHAMES001/turn-based-ai-translator)
 A turn-based, two-person AI translator that lets two people hold a real-time conversation across language barriers using a single phone. Built collaboratively with [@chzn-ichi](https://github.com/chzn-ichi).
@@ -24,7 +24,7 @@ Converts documents into narrated audio with an interactive quiz mode for active 
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,7 +40,7 @@ Converts documents into narrated audio with an interactive quiz mode for active 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JHAMES001&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
@@ -49,7 +49,7 @@ Converts documents into narrated audio with an interactive quiz mode for active 
 
 ---
 
-## 📫 Reach Me
+##  Reach Me
 
 [![Email](https://img.shields.io/badge/Email-jhames%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jhames@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhames)
