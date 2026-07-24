@@ -45,8 +45,8 @@ Converts documents into narrated audio with an interactive quiz mode for active 
 ##  GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JHAMES001&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHAMES001&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-ecru-nu-45.vercel.app/api?username=JHAMES001&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+ <img src="https://github-readme-stats-ecru-nu-45.vercel.app/api/top-langs/?username=JHAMES001&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
 </p>
 
 ---
