@@ -21,6 +21,8 @@ A turn-based, two-person AI translator that lets two people hold a real-time con
 Converts documents into narrated audio with an interactive quiz mode for active recall.
 - **Stack:** JavaScript · Groq LLM backend · Web Speech API · Vercel
 - **Highlights:** End-to-end pipeline from raw document to audio + auto-generated comprehension quiz
+- 🔗 [Live demo](https://notecasting.vercel.app/)
+
 
 ---
 
