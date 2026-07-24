@@ -53,7 +53,7 @@ Converts documents into narrated audio with an interactive quiz mode for active 
 
 ##  Reach Me
 
-[![Email](https://img.shields.io/badge/Email-jhames%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jhames@example.com)
+[![Email](https://img.shields.io/badge/Email-jhames%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jhames@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jhames](https://www.linkedin.com/in/mc-khenneth-gequinto-75457b365/?skipRedirect=true))
 
 <sub>Currently studying for the Philippine Civil Service Exam (Professional Level) alongside coursework — building toward a career that blends software development and public-sector impact.</sub>
